@@ -11,10 +11,14 @@
 
 }
 .nancy {
-     background-color: #81818198;
+   background-color: #81818198;
    width:130px;
    height:830px;
-   
+   display:flex;
+   flex-direction: column;
+   padding:20px;
+   gap:100px;
+
 }
 .price {
     color: #000000;
